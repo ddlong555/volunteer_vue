@@ -1,0 +1,41 @@
+{
+  "confirm": true,
+  "data": {
+    "swiperAD": [
+      "https://ss0.bdstatic.com/70cFvHSh_Q1YnxGkpoWK1HF6hhy/it/u=2560380798,3700826596&fm=26&gp=0.jpg",
+      "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1587898752375&di=c781878dc4523a7a6d9568a7c7a29a88&imgtype=0&src=http%3A%2F%2Fp3.ssl.cdn.btime.com%2Ft0150cad1340e8adfec.jpg"
+    ],
+    "quickNews": [
+      "E.M.心理博物馆正式上线",
+      "全球单日新增病例数首次超10万",
+      "山东1岁女婴确定为无症状感染者 ",
+      "女子隐瞒症状解除隔离后确诊"
+    ],
+    "listsdown3": {
+      "title": "测评大厅",
+      "showLength":3,
+      "list": ["抑郁"],
+      "content": [
+
+
+      ]
+    },
+    "listsdown5": {
+      "title": "测评大厅",
+      "showLength":5,
+      "list": ["焦虑"],
+      "content": [
+
+      ]
+    },
+    "listsdown6": {
+      "title": "测评大厅",
+      "showLength":2,
+      "list": ["双相"],
+      "content": [
+        ]
+
+    }
+  }
+}
+

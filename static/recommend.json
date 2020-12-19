@@ -1,0 +1,355 @@
+{
+  "confirm": true,
+  "data": {
+    "swiperAD": [
+      "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1582617386752&di=942d2d5feeabe046f1ecda59b50268c5&imgtype=0&src=http%3A%2F%2Fpic1.win4000.com%2Fwallpaper%2F9%2F586b4791ed53b.jpg",
+      "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1582617386748&di=7e04e5cfff02ad37c743b073b4fce547&imgtype=0&src=http%3A%2F%2Fimg02.tooopen.com%2Fimages%2F20160427%2Ftooopen_sy_160728773474.jpg",
+      "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1582617386753&di=e47e1f3a38411a03abafa50744bc9f00&imgtype=0&src=http%3A%2F%2Fpic1.win4000.com%2Fwallpaper%2F2018-01-29%2F5a6ee512174c9.jpg",
+      "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1582617386755&di=7b7a3abd071dbde173e10344affd94fb&imgtype=0&src=http%3A%2F%2Fpic1.win4000.com%2Fwallpaper%2F2018-01-03%2F5a4c87b13d344.jpg",
+      "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1582617386748&di=7e04e5cfff02ad37c743b073b4fce547&imgtype=0&src=http%3A%2F%2Fimg02.tooopen.com%2Fimages%2F20160427%2Ftooopen_sy_160728773474.jpg",
+      "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1582617403423&di=441843bf9638a7dc8c1b33c8e7c7a646&imgtype=jpg&src=http%3A%2F%2Fimg2.imgtn.bdimg.com%2Fit%2Fu%3D4085996607%2C123007712%26fm%3D214%26gp%3D0.jpg"
+    ],
+
+    "quickNews": [
+      "E.M.心理博物馆正式上线",
+      "全球单日新增病例数首次超10万",
+      "山东1岁女婴确定为无症状感染者 ",
+      "女子隐瞒症状解除隔离后确诊"
+    ],
+    "guessLike": {
+      "title": "猜你喜欢",
+      "data": [
+        {
+          "img": "http://imagev2.xmcdn.com/group35/M06/22/6B/wKgJnVswzVCyBuURAACZiKI3JYU198.jpg!op_type=5&upload_type=album&device_type=ios&name=web_large&strip=0&quality=7",
+          "title": "虎啸·商业有味道",
+          "number": "4185.4万",
+          "type": 1,
+          "hascrown": true,
+          "ismember": true
+        },
+        {
+          "img": "http://imagev2.xmcdn.com/group44/M08/07/FC/wKgKkVso4yiDs7AyAAs38jSawfs921.png!op_type=5&upload_type=album&device_type=ios&name=web_large&strip=0&quality=7",
+          "title": "秘史趣谈",
+          "number": "1763.4万",
+          "type": 1,
+          "hascrown": false,
+          "ismember": false
+        },
+        {
+          "img": "http://imagev2.xmcdn.com/group43/M01/BD/6F/wKgKjVsU6raQnOsiAAHAC6Ev0gw685.jpg!op_type=5&upload_type=album&device_type=ios&name=large_pop&strip=0&quality=7",
+          "title": "观复嘟嘟【文化】",
+          "number": "14.4亿",
+          "type": 1,
+          "hascrown": false,
+          "ismember": true
+        },
+        {
+          "img": "http://imagev2.xmcdn.com/group13/M00/40/F6/wKgDXVcKCg_C6mIlAAUDrv1fONk145.png!op_type=5&upload_type=album&device_type=ios&name=web_large&strip=0&quality=7",
+          "title": "上门阴夫（幽兰·云飞）",
+          "number": "4.9",
+          "type": 2,
+          "hascrown": true,
+          "ismember": false
+        },
+        {
+          "img": "http://imagev2.xmcdn.com/group41/M03/B0/FA/wKgJ8VrEpiHAXX1iAAIu9T_EMOY865.jpg!op_type=5&upload_type=cover&device_type=ios&name=large_pop&strip=0&quality=7",
+          "title": "财经马红漫",
+          "number": "1684.4万",
+          "type": 1,
+          "hascrown": true,
+          "ismember": true
+        },
+        {
+          "img": "http://imagev2.xmcdn.com/group43/M08/64/43/wKgKjVssrNLzNj5DAAKi8AVgbo4376.jpg!op_type=5&upload_type=album&device_type=ios&name=large_pop&strip=0&quality=7",
+          "title": "超短波段王|每天一只短线好股",
+          "number": "4185.4万",
+          "type": 1,
+          "hascrown": false,
+          "ismember": false
+        },
+        {
+          "img": "http://imagev2.xmcdn.com/group47/M05/0F/BD/wKgKm1tPB4yT_i7nAAFgeahJ5Ik585.jpg!op_type=5&upload_type=cover&device_type=ios&name=large_pop&strip=0&quality=7",
+          "title": "晓说2018",
+          "number": "4185.4万",
+          "type": 1,
+          "hascrown": false,
+          "ismember": true
+        },
+        {
+          "img": "http://imagev2.xmcdn.com/group22/M09/6B/A8/wKgJLliagvPyLrETAACjg6xWPdo046.jpg!op_type=5&upload_type=album&device_type=ios&name=web_large&strip=0&quality=7",
+          "title": "虎啸·商业有味道",
+          "number": "4185.4万",
+          "type": 1,
+          "hascrown": true,
+          "ismember": false
+        },
+        {
+          "img": "http://imagev2.xmcdn.com/group45/M04/00/34/wKgKjls5xcPxVBgtAAFnckPVLis001.jpg!op_type=5&upload_type=album&device_type=ios&name=web_large&strip=0&quality=7",
+          "title": "男人禁地",
+          "number": "4185.4",
+          "type": 2,
+          "hascrown": true,
+          "ismember": false
+        },
+        {
+          "img": "http://imagev2.xmcdn.com/group44/M08/07/FC/wKgKkVso4yiDs7AyAAs38jSawfs921.png!op_type=5&upload_type=album&device_type=ios&name=web_large&strip=0&quality=7",
+          "title": "听秦说",
+          "number": "418万",
+          "type": 2,
+          "hascrown": false,
+          "ismember": false
+        },
+        {
+          "img": "http://imagev2.xmcdn.com/group39/M06/01/19/wKgJnlphjGuwslJPAAGfGRV4Y-o110.jpg!op_type=5&upload_type=album&device_type=ios&name=web_large&strip=0&quality=7",
+          "title": "我是一个标题",
+          "number": "4.7",
+          "type": 2,
+          "hascrown": false,
+          "ismember": false
+        },
+        {
+          "img": "http://imagev2.xmcdn.com/group33/M03/BC/04/wKgJTFm9gEqRogtOAAKwHT1ewUs292.jpg!op_type=5&upload_type=album&device_type=ios&name=web_large&strip=0&quality=7",
+          "title": "虎啸·商业有味道",
+          "number": "4185.4万",
+          "type": 1,
+          "hascrown": false,
+          "ismember": true
+        }
+      ]
+    },
+    "recommend": {
+      "title": "精选视频",
+      "data": [
+        {
+          "img": "http://imagev2.xmcdn.com/group35/M06/22/6B/wKgJnVswzVCyBuURAACZiKI3JYU198.jpg!op_type=5&upload_type=album&device_type=ios&name=web_large&strip=0&quality=7",
+          "title": "虎啸·商业有味道",
+          "number": "4185.4万",
+          "type": 1,
+          "hascrown": false,
+          "ismember": true,
+          "detail": "巴拉巴拉巴拉巴拉巴拉巴拉..."
+        },
+        {
+          "img": "http://imagev2.xmcdn.com/group44/M08/07/FC/wKgKkVso4yiDs7AyAAs38jSawfs921.png!op_type=5&upload_type=album&device_type=ios&name=web_large&strip=0&quality=7",
+          "title": "秘史趣谈",
+          "number": "1763.4万",
+          "type": 1,
+          "hascrown": false,
+          "ismember": false,
+          "detail": "巴拉巴拉巴拉巴拉巴拉巴拉..."
+        },
+        {
+          "img": "http://imagev2.xmcdn.com/group43/M01/BD/6F/wKgKjVsU6raQnOsiAAHAC6Ev0gw685.jpg!op_type=5&upload_type=album&device_type=ios&name=large_pop&strip=0&quality=7",
+          "title": "观复嘟嘟【文化】",
+          "number": "14.4亿",
+          "type": 1,
+          "hascrown": false,
+          "ismember": false,
+          "detail": "巴拉巴拉巴拉巴拉巴拉巴拉..."
+        },
+        {
+          "img": "http://imagev2.xmcdn.com/group47/M07/13/C1/wKgKk1tIhKvRCVtQAAewdUxDZzA714.png!op_type=5&upload_type=album&device_type=ios&name=large_pop&strip=0&quality=7",
+          "=": "上门阴夫（幽兰·云飞）",
+          "number": "4.9",
+          "type": 2,
+          "hascrown": true,
+          "ismember": true,
+          "detail": "巴拉巴拉巴拉巴拉巴拉巴拉..."
+        },
+        {
+          "img": "http://imagev2.xmcdn.com/group41/M03/B0/FA/wKgJ8VrEpiHAXX1iAAIu9T_EMOY865.jpg!op_type=5&upload_type=cover&device_type=ios&name=large_pop&strip=0&quality=7",
+          "title": "财经马红漫",
+          "number": "1684.4万",
+          "type": 1,
+          "hascrown": false,
+          "ismember": false,
+          "detail": "巴拉巴拉巴拉巴拉巴拉巴拉..."
+        },
+        {
+          "img": "http://imagev2.xmcdn.com/group43/M08/64/43/wKgKjVssrNLzNj5DAAKi8AVgbo4376.jpg!op_type=5&upload_type=album&device_type=ios&name=large_pop&strip=0&quality=7",
+          "title": "超短波段王|每天一只短线好股",
+          "number": "4185.4万",
+          "type": 1,
+          "hascrown": false,
+          "ismember": false,
+          "detail": "巴拉巴拉巴拉巴拉巴拉巴拉..."
+        },
+        {
+          "img": "http://imagev2.xmcdn.com/group47/M05/0F/BD/wKgKm1tPB4yT_i7nAAFgeahJ5Ik585.jpg!op_type=5&upload_type=cover&device_type=ios&name=large_pop&strip=0&quality=7",
+          "title": "晓说2018",
+          "number": "4185.4万",
+          "type": 1,
+          "hascrown": false,
+          "ismember": false,
+          "detail": "巴拉巴拉巴拉巴拉巴拉巴拉..."
+        },
+        {
+          "img": "http://imagev2.xmcdn.com/group22/M09/6B/A8/wKgJLliagvPyLrETAACjg6xWPdo046.jpg!op_type=5&upload_type=album&device_type=ios&name=web_large&strip=0&quality=7",
+          "title": "虎啸·商业有味道",
+          "number": "4185.4万",
+          "type": 1,
+          "hascrown": false,
+          "ismember": false,
+          "detail": "巴拉巴拉巴拉巴拉巴拉巴拉..."
+        },
+        {
+          "img": "http://imagev2.xmcdn.com/group45/M04/00/34/wKgKjls5xcPxVBgtAAFnckPVLis001.jpg!op_type=5&upload_type=album&device_type=ios&name=web_large&strip=0&quality=7",
+          "title": "男人禁地",
+          "number": "4185.4",
+          "type": 2,
+          "hascrown": true,
+          "ismember": false,
+          "detail": "巴拉巴拉巴拉巴拉巴拉巴拉..."
+        },
+        {
+          "img": "http://imagev2.xmcdn.com/group44/M08/07/FC/wKgKkVso4yiDs7AyAAs38jSawfs921.png!op_type=5&upload_type=album&device_type=ios&name=web_large&strip=0&quality=7",
+          "title": "听秦说",
+          "number": "418万",
+          "type": 1,
+          "hascrown": false,
+          "ismember": false,
+          "detail": "巴拉巴拉巴拉巴拉巴拉巴拉..."
+        },
+        {
+          "img": "http://imagev2.xmcdn.com/group39/M06/01/19/wKgJnlphjGuwslJPAAGfGRV4Y-o110.jpg!op_type=5&upload_type=album&device_type=ios&name=web_large&strip=0&quality=7",
+          "title": "我是一个标题",
+          "number": "4185.4万",
+          "type": 1,
+          "hascrown": false,
+          "ismember": false,
+          "detail": "巴拉巴拉巴拉巴拉巴拉巴拉..."
+        },
+        {
+          "img": "http://imagev2.xmcdn.com/group33/M03/BC/04/wKgJTFm9gEqRogtOAAKwHT1ewUs292.jpg!op_type=5&upload_type=album&device_type=ios&name=web_large&strip=0&quality=7",
+          "title": "虎啸·商业有味道",
+          "number": "4185.4万",
+          "type": 1,
+          "hascrown": false,
+          "ismember": false,
+          "detail": "巴拉巴拉巴拉巴拉巴拉巴拉..."
+        }
+      ]
+    },
+
+
+    "commendAD": {
+      "img": "http://imagev2.xmcdn.com/group47/M03/13/DF/wKgKk1tIhZ2hquLRAAHhfeZ3EuM110.jpg!op_type=5&upload_type=album&device_type=ios&name=large_pop&strip=0&quality=7",
+      "title": "晓雅Mini AI音响",
+      "detail": "十万名师在身旁，点亮孩子好奇心"
+    },
+    "listenList": {
+      "content": [
+        {
+          "img": "http://imagev2.xmcdn.com/group44/M08/07/FC/wKgKkVso4yiDs7AyAAs38jSawfs921.png!op_type=5&upload_type=album&device_type=ios&name=web_large&strip=0&quality=7",
+          "title": "评书史话-中国古代帝王传",
+          "detail": "回到历史现场，像追美剧一样追历史故事",
+          "number": "",
+          "crown": "8张张专辑"
+        },
+        {
+          "img": "http://imagev2.xmcdn.com/group44/M08/07/FC/wKgKkVso4yiDs7AyAAs38jSawfs921.png!op_type=5&upload_type=album&device_type=ios&name=web_large&strip=0&quality=7",
+          "title": "七大民间传说灵异之物，千万别乱碰！",
+          "detail": "各位看官，晚上好，聊斋茶馆在线江湖，请收看",
+          "crown": "七首声音"
+        },
+        {
+          "img": "http://imagev2.xmcdn.com/group44/M08/07/FC/wKgKkVso4yiDs7AyAAs38jSawfs921.png!op_type=5&upload_type=album&device_type=ios&name=web_large&strip=0&quality=7",
+          "title": "如果‘非遗’会说话（明星版）",
+          "detail": "王凯、陈赫、马思纯等12等明星聊家乡遗产",
+          "number": "4487.3万",
+          "crown": "12"
+        }
+
+      ]
+    },
+    "lazyRadio": {
+      "title": "懒人电台",
+      "data": [
+        {
+          "img": "http://imagev2.xmcdn.com/group44/M08/07/FC/wKgKkVso4yiDs7AyAAs38jSawfs921.png!op_type=5&upload_type=album&device_type=ios&name=web_large&strip=0&quality=7",
+          "title": "一分钟笑翻你"
+        },
+        {
+          "img": "http://imagev2.xmcdn.com/group44/M08/07/FC/wKgKkVso4yiDs7AyAAs38jSawfs921.png!op_type=5&upload_type=album&device_type=ios&name=web_large&strip=0&quality=7",
+          "title": "音乐随身听"
+        },
+        {
+          "img": "http://imagev2.xmcdn.com/group44/M08/07/FC/wKgKkVso4yiDs7AyAAs38jSawfs921.png!op_type=5&upload_type=album&device_type=ios&name=web_large&strip=0&quality=7",
+          "title": "哄睡故事"
+        },
+        {
+          "img": "http://imagev2.xmcdn.com/group44/M08/07/FC/wKgKkVso4yiDs7AyAAs38jSawfs921.png!op_type=5&upload_type=album&device_type=ios&name=web_large&strip=0&quality=7",
+          "title": "专注与助眠"
+        },
+        {
+          "img": "http://imagev2.xmcdn.com/group44/M08/07/FC/wKgKkVso4yiDs7AyAAs38jSawfs921.png!op_type=5&upload_type=album&device_type=ios&name=web_large&strip=0&quality=7",
+          "title": "童话故事"
+        },
+        {
+          "img": "http://imagev2.xmcdn.com/group44/M08/07/FC/wKgKkVso4yiDs7AyAAs38jSawfs921.png!op_type=5&upload_type=album&device_type=ios&name=web_large&strip=0&quality=7",
+          "title": "名家相声"
+        },
+        {
+          "img": "http://imagev2.xmcdn.com/group44/M08/07/FC/wKgKkVso4yiDs7AyAAs38jSawfs921.png!op_type=5&upload_type=album&device_type=ios&name=web_large&strip=0&quality=7",
+          "title": "情感电台"
+        },
+        {
+          "img": "http://imagev2.xmcdn.com/group44/M08/07/FC/wKgKkVso4yiDs7AyAAs38jSawfs921.png!op_type=5&upload_type=album&device_type=ios&name=web_large&strip=0&quality=7",
+          "title": "鬼故事"
+        },
+        {
+          "img": "http://imagev2.xmcdn.com/group44/M08/07/FC/wKgKkVso4yiDs7AyAAs38jSawfs921.png!op_type=5&upload_type=album&device_type=ios&name=web_large&strip=0&quality=7",
+          "title": "开心一刻"
+        }
+      ]
+    },
+    "fyCommand": {
+      "title": "为你推荐",
+      "showLength": 8,
+      "content": [
+        {
+          "img": "http://imagev2.xmcdn.com/group44/M08/07/FC/wKgKkVso4yiDs7AyAAs38jSawfs921.png!op_type=5&upload_type=album&device_type=ios&name=web_large&strip=0&quality=7",
+          "title": "穿越火线：第一次世界大战",
+          "detail": "回到历史现场，像追美剧一样追历史故事",
+          "number": "557.6万",
+          "crown": "106"
+        },
+        {
+          "img": "http://imagev2.xmcdn.com/group44/M08/07/FC/wKgKkVso4yiDs7AyAAs38jSawfs921.png!op_type=5&upload_type=album&device_type=ios&name=web_large&strip=0&quality=7",
+          "title": "王立群史记之汉武帝",
+          "detail": "史家之绝唱，吴韵之离骚",
+          "number": "1731.9万",
+          "crown": "38"
+        },
+        {
+          "img": "http://imagev2.xmcdn.com/group44/M08/07/FC/wKgKkVso4yiDs7AyAAs38jSawfs921.png!op_type=5&upload_type=album&device_type=ios&name=web_large&strip=0&quality=7",
+          "title": "北大赵冬梅讲中国史",
+          "detail": "一门课带你了解历史的大脉络与小细节",
+          "number": "27.6万",
+          "crown": "17"
+        },
+        {
+          "img": "http://imagev2.xmcdn.com/group44/M08/07/FC/wKgKkVso4yiDs7AyAAs38jSawfs921.png!op_type=5&upload_type=album&device_type=ios&name=web_large&strip=0&quality=7",
+          "title": "如果‘非遗’会说话（明星版）",
+          "detail": "王凯、陈赫、马思纯等12等明星聊家乡遗产",
+          "number": "4487.3万",
+          "crown": "12"
+        },
+        {
+          "img": "http://imagev2.xmcdn.com/group44/M08/07/FC/wKgKkVso4yiDs7AyAAs38jSawfs921.png!op_type=5&upload_type=album&device_type=ios&name=web_large&strip=0&quality=7",
+          "title": "武则天",
+          "detail": "中国历史唯一女帝武则天的传奇一生",
+          "number": "296.7万",
+          "crown": "563"
+        },
+        {
+          "img": "http://imagev2.xmcdn.com/group44/M08/07/FC/wKgKkVso4yiDs7AyAAs38jSawfs921.png!op_type=5&upload_type=album&device_type=ios&name=web_large&strip=0&quality=7",
+          "title": "三国名将",
+          "detail": "吕布、诸葛亮、关羽、张飞、周瑜、吕蒙、三国演义",
+          "number": "992.7万",
+          "crown": "59"
+        }
+      ]
+    }
+  }
+}

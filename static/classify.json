@@ -1,0 +1,292 @@
+{
+  "data": {
+    "headList": {
+      "first": [
+        {
+          "icon": "icon-book",
+          "name": "情绪治疗"
+        },
+        {
+          "icon": "",
+          "name": "抑郁"
+        },
+        {
+          "icon": "",
+          "name": "失眠"
+        },
+        {
+          "icon": "",
+          "name": "受挫"
+        }
+      ],
+      "second": [
+        {
+          "icon": "icon-book1",
+          "name": "畅销书"
+        },
+        {
+          "icon": "",
+          "name": "社科"
+        },
+        {
+          "icon": "",
+          "name": "心理"
+        },
+        {
+          "icon": "",
+          "name": "文学"
+        }
+      ],
+      "thrid": [
+        {
+          "icon": "icon-yingyuanxinxiertongpiao",
+          "name": "儿童"
+        },
+        {
+          "icon": "",
+          "name": "故事"
+        },
+        {
+          "icon": "",
+          "name": "卡通"
+        },
+        {
+          "icon": "",
+          "name": "儿科"
+        }
+      ]
+    },
+    "enjoy": [
+      {
+        "icon": "icon-yule1",
+        "name": "音乐",
+        "hot": false,
+        "color": "#f8d16c"
+      },
+      {
+        "icon": "icon-shanzi",
+        "name": "心理网课",
+        "hot": false,
+        "color": "#f8d16c"
+      },
+      {
+        "icon": "icon-book",
+        "name": "段子",
+        "hot": false,
+        "color": "#f8d16c"
+      },
+      {
+        "icon": "icon-qinggan",
+        "name": "情感生活",
+        "hot": false,
+        "color": "#f8d16c"
+      },
+      {
+        "icon": "icon-yule",
+        "name": "娱乐",
+        "hot": false,
+        "color": "#f8d16c"
+      },
+      {
+        "icon": "icon-jiaodai",
+        "name": "影视",
+        "hot": false,
+        "color": "#f8d16c"
+      },
+      {
+        "icon": "icon-toutiao",
+        "name": "资讯",
+        "hot": false,
+        "color": "#f8d16c"
+      },
+      {
+        "icon": "icon-doudou",
+        "name": "二次元",
+        "hot": false,
+        "color": "#f8d16c"
+      },
+      {
+        "icon": "icon-svggeshi-",
+        "name": "世界杯",
+        "hot": true,
+        "color": "#f8d16c"
+      }
+    ],
+    "knowledge": [
+      {
+        "icon": "icon-lishihangcheng",
+        "name": "历史",
+        "hot": false,
+        "color": "#7cc2ef"
+      },
+      {
+        "icon": "icon-81",
+        "name": "心理咨询",
+        "hot": false,
+        "color": "#7cc2ef"
+      },
+      {
+        "icon": "icon-maobi",
+        "name": "人文",
+        "hot": false,
+        "color": "#7cc2ef"
+      },
+      {
+        "icon": "icon-yingyu",
+        "name": "英语",
+        "hot": false,
+        "color": "#f8d16c"
+      },
+      {
+        "icon": "icon-icon",
+        "name": "心理培训",
+        "hot": false,
+        "color": "#7cc2ef"
+      },
+      {
+        "icon": "icon-keji",
+        "name": "IT科技",
+        "hot": false,
+        "color": "#7cc2ef"
+      },
+      {
+        "icon": "icon-icon1",
+        "name": "诗歌",
+        "hot": false,
+        "color": "#7cc2ef"
+      },
+      {
+        "icon": "",
+        "name": "国学书院",
+        "hot": false,
+        "color": "#7cc2ef"
+      },
+      {
+        "icon": "icon-52",
+        "name": "小语种",
+        "hot": false,
+        "color": "#7cc2ef"
+      }
+    ],
+    "life": [
+      {
+        "icon": "icon-lvyou",
+        "name": "旅游",
+        "hot": false,
+        "color": "#4dd298"
+      },
+      {
+        "icon": "icon-lvyou",
+        "name": "健康养生",
+        "hot": false,
+        "color": "#4dd298"
+      },
+      {
+        "icon": "icon-xiangshui",
+        "name": "时尚生活",
+        "hot": false,
+        "color": "#4dd298"
+      }
+    ],
+    "feature": [
+      {
+        "icon": "icon-jingpin",
+        "name": "付费精品",
+        "hot": false,
+        "color": "#fa927a"
+      },
+      {
+        "icon": "icon-diantai",
+        "name": "广播剧",
+        "hot": false,
+        "color": "#fa927a"
+      },
+      {
+        "icon": "icon-weibiaoti1",
+        "name": "粤语",
+        "hot": false,
+        "color": "#fa927a"
+      },
+      {
+        "icon": "icon-falv",
+        "name": "心理课堂",
+        "hot": false,
+        "color": "#fa927a"
+      },
+      {
+        "icon": "icon-zhibo",
+        "name": "电台",
+        "hot": false,
+        "color": "#fa927a"
+      },
+      {
+        "icon": "icon-icon",
+        "name": "心理网课",
+        "hot": false,
+        "color": "#fa927a"
+      },
+      {
+        "icon": "icon-pinpaibiaozhibarand",
+        "name": "在线畅聊",
+        "hot": false,
+        "color": "#fa927a"
+      },
+      {
+        "icon": "icon-3dcube",
+        "name": "3D体验馆",
+        "hot": false
+      },
+      {
+        "icon": "icon-icon",
+        "name": "名校公开课",
+        "hot": false,
+        "color": "#fa927a"
+      },
+      {
+        "icon": "icon-location",
+        "name": "听舒缓音乐",
+        "hot": false,
+        "color": "#fa927a"
+      },
+      {
+        "icon": "icon-zhibo",
+        "name": "直播",
+        "hot": false,
+        "color": "#fa927a"
+      },
+      {
+        "icon": "icon-qiche",
+        "name": "汽车",
+        "hot": false,
+        "color": "#fa927a"
+      },
+      {
+        "icon": "icon-huadian-yishubaijian",
+        "name": "艺术",
+        "hot": false,
+        "color": "#fa927a"
+      },
+      {
+        "icon": "icon-huapimianju1",
+        "name": "戏曲",
+        "hot": false,
+        "color": "#fa927a"
+      },
+      {
+        "icon": "",
+        "name": "",
+        "hot": "",
+        "color": ""
+      }
+    ],
+    "commendAD": {
+      "img": "http://imagev2.xmcdn.com/group47/M03/13/DF/wKgKk1tIhZ2hquLRAAHhfeZ3EuM110.jpg!op_type=5&upload_type=album&device_type=ios&name=large_pop&strip=0&quality=7",
+      "title": "晓雅Mini AI音响",
+      "detail": "十万名师在身旁，点亮孩子好奇心"
+    },
+    "AD": [
+      "https://ss2.bdstatic.com/70cFvnSh_Q1YnxGkpoWK1HF6hhy/it/u=2051041194,1932725624&fm=26&gp=0.jpg",
+      "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1582617386748&di=7e04e5cfff02ad37c743b073b4fce547&imgtype=0&src=http%3A%2F%2Fimg02.tooopen.com%2Fimages%2F20160427%2Ftooopen_sy_160728773474.jpg"
+    ]
+  }
+}
